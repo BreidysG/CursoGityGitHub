@@ -12,3 +12,12 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: chocolate;
 }
+
+div {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    border: 1px solid black;
+}
