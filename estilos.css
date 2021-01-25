@@ -10,14 +10,16 @@ body{
 
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: chocolate;
+    color: whitesmoke;
 }
 
-div {
+.normal {
     width: 80%;
     height: auto;
     margin: 0 auto;
-    background-color: antiquewhite;
+    margin-top: 30px;
+    background-color:cornflowerblue;
     border-radius: 5px;
     border: 1px solid black;
+    box-shadow: 2px 2px 2px 2px black;
 }
